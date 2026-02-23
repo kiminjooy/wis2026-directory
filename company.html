@@ -28,6 +28,9 @@
       background:var(--navy);
       color:#fff;
       border-bottom:1px solid rgba(255,255,255,.10);
+      position: sticky;
+        top: 0;
+        z-index: 1000;
     }
     .topbar .inner{
       max-width:var(--max);margin:0 auto;padding:14px 16px;
@@ -188,6 +191,50 @@
       animation:spin 0.9s linear infinite;
     }
     @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* ✨ Meeting Request shimmer */
+#btnMeeting{
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  animation: meetingGlow 1.8s ease-in-out infinite;
+}
+
+#btnMeeting::after{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-120%;
+  width:80%;
+  height:100%;
+  transform: skewX(-20deg);
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.7),
+    transparent
+  );
+
+  animation: meetingShine 2.2s linear infinite;
+  pointer-events:none;
+}
+
+@keyframes meetingShine{
+  0%   { left:-120%; }
+  100% { left:120%; }
+}
+
+@keyframes meetingGlow{
+  0%,100%{
+    text-shadow: 0 0 0 rgba(255,255,255,0);
+  }
+  50%{
+    text-shadow:
+      0 0 10px rgba(255,255,255,.8),
+      0 0 20px rgba(255,255,255,.5);
+  }
+}
   </style>
 </head>
 
@@ -207,7 +254,7 @@
 
       <div class="actions">
         <a class="btn secondary" href="index.html">← Back to list</a>
-        <a class="btn" id="btnMeeting" href="#" style="display:none;">Meeting Request</a>
+        <a class="btn" id="btnMeeting" href="#" style="display:none;"><span>Meeting Request</span></a>
       </div>
     </div>
   </div>
@@ -498,4 +545,3 @@
   </script>
 </body>
 </html>
-
