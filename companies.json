@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "generatedAt": "2026-02-25T07:20:19.403Z",
+    "countCompanies": 14
+  },
+  "companies": [
+    {
+      "id": "7408103365",
+      "name": "AI gement",
+      "logo": "https:/drive.google.com/open?id=18ThQHMJvYnjCus_3ahioebKPRmm0RTbW",
+      "location": "Dalseong-gun, Daegu",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.plynai.com",
+        "subpage": "www.linkedin.com/company/aigement",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "7408103365-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Agent Platforms, Industry-specific AI Applications, Data Analytics & Storage",
+          "name": "PLYN (Procurement automation AI SaaS)",
+          "detail": "We automate procurement end-to-end: multi-step workflows with no human intervention, expert-level decisions (negotiation strategy, alternatives, execution plans), and day-to-day communication via email/phone/messengers. Our goal isn’t to minimize human-in-the-loop, but to make it unnecessary",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1cIVNdGs-VQXuI4AhQmtG8CQHIqe5zza-"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=AI%20gement"
+        }
+      ]
+    },
+    {
+      "id": "5608103449",
+      "name": "amously",
+      "logo": "https:/drive.google.com/open?id=1w2DneRcdVy_1uR5OHD9u4UhBAHTmgqKh",
+      "location": "Seocho-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://www.amously.ai",
+        "subpage": "https://www.linkedin.com/company/amously",
+        "catalog": "https://drive.google.com/open?id=1Au5sVf460S4E8-XXL89fWWghVtIL1eNE"
+      },
+      "products": [
+        {
+          "id": "5608103449-1",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "Industry-specific AI Applications",
+          "name": "Amfibian (Semiconductor Manufacturing Process Control Platform)",
+          "detail": "Amfibian™ is an on-premise AI process control platform that predicts process conditions and derives optimal recipe and control parameters based on semiconductor mass-production data.\n\nIts key differentiator is that process engineers—without relying on developers or data scientists—can directly create, modify, validate, and deploy models. An intuitive model-building framework combined with a digital twin–based pre-validation system enables scenario testing and risk assessment before deployment. In operation, the platform provides stabilization features including monitoring and rollback.\n\nBy integrating equipment, metrology, and historical data, Amfibian performs virtual metrology (VM) and control optimization, delivering not only diagnostics but also concrete adjustment guidance. Designed as an add-on to existing MES and APC environments, it allows rapid deployment and is scalable from CMP to a wide range of semiconductor processes.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1MbNVVUSiltsbRN9PFQK7xD6i_nG0THi_"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=amously"
+        }
+      ]
+    },
+    {
+      "id": "1108167253",
+      "name": "CELLBIG",
+      "logo": "https:/drive.google.com/open?id=1-3q6C1awXrSenqCZodvzoTV8jbRk1F6N",
+      "location": "Geumcheon-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.cellbig.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=11N4kCTA6kc5NYufXluj5_R1rI-WEzsWF, https://drive.google.com/open?id=1Cb5I5N4eVK-4Lkf2X5JB4yn9flPwSIJf, https://drive.google.com/open?id=1e0FZpGsb0gjE9m6cGecOK1wl-V4A-FC9, https://drive.google.com/open?id=1Vuu-XIXllkekalWQWbm2MfsdfK_iz84h"
+      },
+      "products": [
+        {
+          "id": "1108167253-1",
+          "mainCategory": "AI & Digital Intelligence, Immersive Spatial Tech",
+          "subCategory": "Generative AI, VR/AR/XR- based Simulations and Content",
+          "name": "AI Photo Gram (AI Photo Booth)",
+          "detail": "1.AI Powered Photo Studio \n- Create stunning images instantly with advanced generative AI.\n\n2.Hybrid Reality Background System\n\n- Seamlessly blend real and virtual environments for unique photo effects.\n\n3.Immersive Branding & Event Experience\n\n- Optimized for brand activations, events, and pop-up stores.\n\n4.Easy Setup Anywhere\n\n- A portable smart photo booth that can be installed effortlessly at venues, brand zones, or exhibitions.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=11jiziaK21nWQhnIrRraFrllBq_oQ4mkW"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=CELLBIG"
+        },
+        {
+          "id": "1108167253-3",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "VR/AR/XR- based Simulations and Content",
+          "name": "Indoor Playground (Immersive Content Playground)",
+          "detail": "We develop immersive experiences using AR, XR technologies and projection mapping.\nThrough these innovations, we create and operate digital exhibition spaces that bring virtual and physical worlds together.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1CqsHYMHwBeXeGHxZv3VhP0StoiD0jOFO"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1108167253-2",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "VR/AR/XR- based Simulations and Content",
+          "name": "Keezle (Immersive Edtech)",
+          "detail": "We develop tangible immersive content using AR, XR, AI technologies, and projection mapping. Through this, we provide innovative solutions across various fields, including education, sports, training, and kids healthcare.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1z0SaViCfvlJnn2QinhPD6HdRVS2qTtGW"
+          ],
+          "meetingRequest": ""
+        }
+      ]
+    },
+    {
+      "id": "8618601714",
+      "name": "GEOGRID",
+      "logo": "https:/drive.google.com/open?id=1kXmdrZC2Jf1D6lIErpTv2xTb-YcmJ9Iz",
+      "location": "Chuncheon-si, Gangwon-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.egeogrid.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1VzL4fA2_LbLaq9wWyV2SaybOt8Hln30u, https://drive.google.com/open?id=1U2WfqHKrhflAxhV-SwWpoR8Q5Ou_nh_9"
+      },
+      "products": [
+        {
+          "id": "8618601714-1",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "Digital Twin Platforms",
+          "name": "Building Oasis BLOS (Integrated Smart Water Management System based on Digital Twin)",
+          "detail": "Features: A 'Building Water Purification Plant' solution installed at the main water inlet of the mechanical room to improve, monitor, and optimize water quality throughout the entire building in real-time. It visualizes complex piping networks through Digital Twin technology and manages water conditions remotely. It provides technology that blocks external impurities to supply clean water like a purifier throughout the building, preventing pipe corrosion due to aging, improving rust water, and preventing slime formation caused by bacterial growth.\n\nStrategy: Essential for LEED 'Water Efficiency (WE)' credits via chemical-free treatment. It drastically reduces maintenance costs and carbon emissions compared to traditional purifiers through real-time flow and water quality data analytics.",
+          "certifications": [
+            "ISO9001"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1GI6F6Q7Pg1iVciq1NqXNrzVoZJu5G-Ha"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=GEOGRID"
+        }
+      ]
+    },
+    {
+      "id": "1388165438",
+      "name": "Greentel",
+      "logo": "https:/drive.google.com/open?id=1-hkpFDEvUF7fJ02IZMZSKn7R4hS5o2Qa",
+      "location": "Hanam-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer, Importer / Technology Distributor",
+      "links": {
+        "homepage": "www.oculen.net",
+        "subpage": "www.g-greentel.com",
+        "catalog": "https://drive.google.com/open?id=19M1K-Bnh6o1bY6ZX45kuM1NwxqxB3On2, https://drive.google.com/open?id=17AE3IEBLIKdBk9iPxkA5efMCjWrT8qqs, https://drive.google.com/open?id=1w1rMSRgMkYoVCzfry9WU2BYHyJ3Ed6B0"
+      },
+      "products": [
+        {
+          "id": "1388165438-2",
+          "mainCategory": "Robotics & Intelligent Mobility, Smart Life & Data Tech",
+          "subCategory": "Smart Mobility, Smart Home/Office/Work Solutions",
+          "name": "Ultra Lowlight Camera",
+          "detail": "Our latest camera solution, designed for powerful night surveillance. It can provide Full HD color footage under the very low light conditions like star-light.\nIt features cutting-edge night vision technology with ultra-low latency.\nIt is available in two models. DB-1 is a basic bullet type model. DH-2 is an ultra-compact mini model, suitable for integration with drone and missile systems. It weighs only 47g and measures just 30×30(mm).",
+          "certifications": [
+            "CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1izkB739Z81tbXYwa3KJ0Xg-iRGTkm-1Y"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1388165438-3",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "On-device AI, Industry-specific AI Applications",
+          "name": "VAI-HYBRID EDGE AI solution",
+          "detail": "- The Hybrid solution with Intelligent Video Enhancer & Small Object Detection Edge AI.\n- Even under poor visibility conditions that degrade video quality and detection performance, VAI-HYBRID enables reliable detection and identification\n- Ideal for smart city, smart farm, smart factory, video analytics, and AI development\n- Supports SOD (Small Object Detection) for high-percision detection\n- Multi-domain Operation (Land & Maritime & Air)\n- Serverless Edge AI deployment",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1GsPzlGji7_seM_5vRJDwV2WgfnW7D9bE"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1388165438-1",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "Intelligent IoT",
+          "name": "Video Enhancer",
+          "detail": "Greentel provides smart video enhancement solutions for critical surveillance in various conditions.\nGreentel’s video enhancer enhances blurry footage from CCTV, EO/IR, drones in bad weather like fog, rain, lowlight. Without replacing or discarding the existing system, it can highly improve the image quality of existing system. It is currently being operated in Korea Airforce, Army, Maritime Police, and it can be applied to every sites where important video surveillance systems are in operation.",
+          "certifications": [
+            "CE",
+            "FCC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=11RgroeCNRklzI17Ehno7kqLebleaoGkt"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Greentel"
+        }
+      ]
+    },
+    {
+      "id": "5218801858",
+      "name": "IDB",
+      "logo": "https:/drive.google.com/open?id=1vHrgJ4gCKoNbvj_zFs9vdWb3gXQpxW_2",
+      "location": "Gangnam-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://idb.ai",
+        "subpage": "https://protectgoai.jp/",
+        "catalog": "https://drive.google.com/open?id=1Pj7t_l651j9Jvy7v-yA3_G7uIW-s2H_A"
+      },
+      "products": [
+        {
+          "id": "5218801858-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech",
+          "subCategory": "Generative AI, Multimodal AI, On-device AI, Agent Platforms, Intelligent IoT, Electric Vehicles, Robot Control Systems & Operational Software, Digital Twin Platforms",
+          "name": "Protect Go AI",
+          "detail": "AI Based Facilit abnormality detection, safety risk detection, energy efficiency detection, multi agent based operation AI",
+          "certifications": [
+            "GS",
+            "KC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1N0oA2k0DLyDGVyScQGXvcPzDB6HAITsI"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=IDB"
+        }
+      ]
+    },
+    {
+      "id": "6828801890",
+      "name": "Intellectus",
+      "logo": "https:/drive.google.com/open?id=1MH95bgLQ1dP1irxHiMSf6XZujT9Y5XQe",
+      "location": "Gangnam-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://en.intellectus.co.kr/",
+        "subpage": "https://kr.linkedin.com/company/%EC%A3%BC-%EC%9D%B8%ED%85%94%EB%A0%89%ED%88%AC%EC%8A%A4",
+        "catalog": "https://drive.google.com/open?id=1TSpmGwnAt9Lsns-h3zNFVTK2ZSOf3zkH"
+      },
+      "products": [
+        {
+          "id": "6828801890-2",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "On-device AI, Industry-specific AI Applications, Intelligent IoT, Industrial/Logistics/Service Robots",
+          "name": "FlowPilot (Edge AI Engine)",
+          "detail": "A manufacturing-specialized Edge AI engine that analyzes and controls shop floor data in real-time to minimize quality gaps.\n1. Improve Quality: Maintains consistent product quality by preemptively blocking factors that cause defects.\n2. Save Energy & Costs: Maximize operational efficiency by reducing waste through real-time process analysis.\n3. Fast AI Deployment: Get instant results with quick, data-driven optimization—no complex training required.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1iathkmuF3UR8jM9sM1w-5ATwJkK7PzLA"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "6828801890-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "On-device AI, Industry-specific AI Applications, Intelligent IoT, Industrial/Logistics/Service Robots",
+          "name": "int2ConneX (Middleware)",
+          "detail": "A manufacturing-specialized Edge AI engine that analyzes and controls shop floor data in real-time to minimize quality gaps.\n1. Plug & Play: Instantly connects data from various machines without the need for equipment changes.\n2. Ultra-Low Latency: Delivers massive datasets in real-time without interruption, powered by DDS technology.\n3. High Scalability: Rapid expansion without additional coding, even when adding new equipment or nodes.",
+          "certifications": [
+            "OMG International Standard\nCertified Global DDS Vendor"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1qUoO2-aOPMYopRE9Tdh_mM3gDgfaS7ap"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Intellectus"
+        }
+      ]
+    },
+    {
+      "id": "1198664452",
+      "name": "N-ARK Technology",
+      "logo": "https:/drive.google.com/open?id=1VdyaiESkdUlEhKw3KhsAe1PUjmieA5r7",
+      "location": "Ansan-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://n-ark.com/?page_id=1986&lang=en",
+        "subpage": "https://www.instagram.com/narktech/?hl=ko, https://youtube.com/channel/UC6QVZXVrcYPNPgrLq_oXU1A?si=b72Ss1hdRAzpUUUE",
+        "catalog": "https://drive.google.com/open?id=1SznC_65jmULR1AOSAe2jscUJv6zuHdHx, https://drive.google.com/open?id=1wIvkCFQxymUrs9Ty7gEr615obr3Q4KUT, https://drive.google.com/open?id=1jd40zhTri6beJRE_8aPJekioFPZj46E3, https://drive.google.com/open?id=1wi74t7JtAD8323pLnx41tTHzNfHl2Pkq"
+      },
+      "products": [
+        {
+          "id": "1198664452-4",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-FR500 (3ch MPoE Repeater)",
+          "detail": "This product is a high-performance 3-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt can extend up to three channels simultaneously with a single device, offering excellent installation efficiency.\n\nBy amplifying and extending both power and data transmission at the same time, it maintains stable performance even in long-distance environments.\n\nIt minimizes voltage drop, ensuring reliable power delivery to high-power devices.\n\nBy reducing wiring work and minimizing the number of required devices, it provides cost savings and easier maintenance.\n\nIt is a next-generation power and communication extension solution optimized for multi-channel and high-power environments, including CCTV, AI cameras, industrial networks, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1lxRZRffVI0j3M82CYFBX2NyLrQ-GMITC"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-5",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, Smart Appliances",
+          "name": "NRK-FR501 (4ch MPoE Repeater)",
+          "detail": "This product is a high-performance 4-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt can extend up to four channels simultaneously with a single device, making it ideal for large-scale installation environments.\n\nBy amplifying and extending both power and data transmission at the same time, it maintains stable performance even over long distances.\n\nIt minimizes voltage drop, ensuring reliable power delivery to high-power network devices.\n\nBy reducing the number of required devices and simplifying wiring processes, it improves installation efficiency and lowers overall deployment costs.\n\nIt is a next-generation power and communication extension solution optimized for multi-channel, high-density environments, including CCTV, AI cameras, industrial networks, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1VIWWjC3DnGPLOmgGQcmxpUXiKsb43UEs"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-3",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-MR100 (1ch MPoE Repeater)",
+          "detail": "This product is a high-performance 1-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt simultaneously amplifies and extends power and data transmission, effectively overcoming the limitations of conventional transmission distance.\n\nEven in long-distance environments, it minimizes voltage drop to maintain stable power delivery and reliable data quality.\n\nIt can be easily installed without additional power construction, offering excellent installation efficiency and cost-effectiveness.\n\nIt is a next-generation power and communication extension solution optimized for long-distance and high-power environments, including CCTV, AI cameras, and industrial networks.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1yvj-5Ks6elXxDbUYvqtCNNaMNVNSPl_o"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-2",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-P6405 (MPoE Injector)",
+          "detail": "This product is a 60W high-power injector based on N-ARK’s proprietary MPoE technology.\nCompared to conventional PoE, it enables higher power transmission, providing stable power supply to high-performance network devices.\nBy delivering both power and data through a single cable, it simplifies wiring structures and reduces installation costs.\nIt minimizes voltage drop even over long distances, ensuring stable power delivery and reliable data communication quality.\nIt is a next-generation power transmission solution suitable for various high-power network environments, including CCTV, AI cameras, industrial equipment, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1eNuORWK9XBi-D61zrh51qQssKDBLVK06"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Industrial/Logistics/Service Robots, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "PLE (AC Power & Data Integrated Transmission Device)",
+          "detail": "This product is an integrated transmission device that delivers AC power and communication signals simultaneously through a single cable.\n\nThere is no need to install separate power and communication lines, making installation simple and cost-effective.\n\nIt enables stable data transmission even over long distances and is suitable for AI, robotics, aerospace, defense, and various network equipment applications.\n\nBy simplifying the wiring structure, it reduces installation time and improves maintenance efficiency, providing a next-generation power and communication integrated solution.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1pVFCaTjPAKH-JGHDMlF_NSgU6v-nApst"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=N-ARK%20Technology"
+        }
+      ]
+    },
+    {
+      "id": "8028702235",
+      "name": "PIASPACE",
+      "logo": "https:/drive.google.com/open?id=1vjRa-Q4CZvGF714egiLZYg6maUhjTsTw",
+      "location": "Dong-gu, Daegu",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.pia.space",
+        "subpage": "https://www.linkedin.com/company/piaspace/posts/?feedView=all",
+        "catalog": "https://drive.google.com/open?id=1tu1AMq2BbPAHdm8_4zT1iTshEGeOJm7S"
+      },
+      "products": [
+        {
+          "id": "8028702235-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Multimodal AI, Industry-specific AI Applications, Smart Home/Office/Work Solutions",
+          "name": "MACS(Multi-modal AI for Camera Solution)",
+          "detail": "MACS: Context-Aware Intelligent Video Analytics\n\nMACS is an advanced, multi-modal AI-driven CCTV analysis system that goes beyond simple object detection to understand situational context and detect complex anomalies in real-time.\n\nThe core strength of MACS lies in its \"human-like\" contextual understanding. While traditional AI focuses on identifying objects, MACS interprets the meaning behind actions—such as \"a person collapsing\" or \"a motorcycle operating without a helmet.\" This is achieved through sophisticated Vision-Language Model (VLM) technology, which analyzes video and text data simultaneously.\n\nUnlike conventional detection systems, MACS utilizes VLM to enable complex situational awareness even with minimal training data. Furthermore, our lightweight architecture allows for more CCTV channels per GPU, offering superior scalability and cost-efficiency.\n\nMACS features real-time threat detection and instant alerts, enabling immediate response to emergencies. Our technology is certified by major Korean authorities (KISA, KTL), boasting an F1-score of over 96 and a detection accuracy of 90%+ in complex environments.\n\nFrom falls and fires to trespassing and crowd density, MACS provides flexible detection types tailored to your needs. It is the ideal solution for urban surveillance, industrial sites, ports, airports, and luxury resorts.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1FqZfkC1DeBOggI_ajPdARbjLSfmtwaYD"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=PIASPACE"
+        }
+      ]
+    },
+    {
+      "id": "1218801075",
+      "name": "seyeong tech",
+      "logo": "https:/drive.google.com/open?id=1tOIPBH8OjuK5NnShRk6-vtIw5WDkEA2u",
+      "location": "Changwon-si, Gyeongsangnam-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://seyeongtech.co.kr/",
+        "subpage": "https://seyeongtech.co.kr/",
+        "catalog": "https://drive.google.com/open?id=1ivIRrZJJ8HF6kwx131RagQuoHyOYCFLt"
+      },
+      "products": [
+        {
+          "id": "1218801075-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Appliances, Digital Healthcare",
+          "name": "Nomad Wireless Dryer",
+          "detail": "1. Battery Replaceable Wireless Dryer\n2. 30 m/s strong wind strength\n3. 60 degree temperature optimized for hair and skin aging",
+          "certifications": [
+            "PSE",
+            "CE",
+            "FCC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1UeZTscD91hkeZA-Yn6StrbwEGAe9OQAj"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=seyeong%20tech"
+        }
+      ]
+    },
+    {
+      "id": "3148136463",
+      "name": "SPS",
+      "logo": "https:/drive.google.com/open?id=1_bmwFPsEA6jdGuxp0wf6-7SnTeHQiHcq",
+      "location": "Yuseong-gu, Daejeon",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.sps-ltd.com",
+        "subpage": "www.magconn.net",
+        "catalog": "https://drive.google.com/open?id=1h2RrfucaG5YQLHn3pNw8fSWMAinB6tYT, https://drive.google.com/open?id=15mohjP8R4XFHnEBpSJOL4Z2bCR9fborp"
+      },
+      "products": [
+        {
+          "id": "3148136463-1",
+          "mainCategory": "Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Immersive Interfaces, Smart Home/Office/Work Solutions",
+          "name": "Magconn Technology",
+          "detail": "Magconn technology is magnetic wireless charging & data sync solution and it can be applied for all the mobile devices and accessories. \n\nMagconn is same as USB in terms of function (power & data), but the UI (user interface) is different.\nConventional USB interface is plug-in/plug-out, but Magconn is simply attach/detach.\n\nMagconn technology has been applied for Smartphone, Tablet PC, Action camera, Bike light & GPS Tracker, mPOS, Barcode/RFID reader, Medical device, iPhone & Android phone cases and accessories, Automotive accessories, etc. in global market",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1deV3SPxjR4ENkKVAlQewVL5cePdAnm2P"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=SPS"
+        }
+      ]
+    },
+    {
+      "id": "6288801178",
+      "name": "Thermoeye",
+      "logo": "https:/drive.google.com/open?id=1G7_PAWkkVTYaXY1ufUSGrWoYZegFHS_t",
+      "location": "Dongjak-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "http://www.thermoeye.co.kr/",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1ee6cNKWX8dpmLyHIUdFqmHXCkLsvxWzS"
+      },
+      "products": [
+        {
+          "id": "6288801178-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Industry-specific AI Applications, Smart Mobility",
+          "name": "TMC(Industrial Thermal Camera)",
+          "detail": "The TMC series is an industrial thermal camera for real-time temperature monitoring in semiconductor, battery, and electronics manufacturing. It enables early detection of anomalies to improve process stability and productivity. The technology can also be applied to mobility and road safety systems, supporting thermal monitoring for vehicles and infrastructure.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1Eg7fKjRyxGjw_3tqbZPqjMB0TV-_oPB8"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Thermoeye"
+        }
+      ]
+    },
+    {
+      "id": "5538103043",
+      "name": "TNHTek",
+      "logo": "https:/drive.google.com/open?id=18jjnXeMGsOLHms6l7F99RpU0aJN7n4qt",
+      "location": "Cheonan-si, Chungcheongnam-do",
+      "businessArea": "Manufacturer / In-house Technology Developer, Korean Branch or Representative Office",
+      "links": {
+        "homepage": "www.tnhtek.kr",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1z3mr-8CcTunZI1Xt3NBJZ6ElwiOdrnMj"
+      },
+      "products": [
+        {
+          "id": "5538103043-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Generative AI, Multimodal AI, On-device AI, Autonomous Driving, Electric Vehicles",
+          "name": "AI Data Center Hybrid DLC Cooling Solution \"EcoGen\"",
+          "detail": "Ecogen: The world's first monolithic hybrid DLC module for AI data centers, achieving unmatched thermal performance equivalent to immersion cooling with zero maintenance.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1QJYjkW-sN_WTPOQ9TuR2bzYtYUr12RBy"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=TNHTek"
+        }
+      ]
+    },
+    {
+      "id": "2518101907",
+      "name": "WeGlue",
+      "logo": "https:/drive.google.com/open?id=1y7I-Gz4AjuVQ4DPjGW61SiQPZjXXurpq",
+      "location": "Hwaseong-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "we-glue.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1-FGW01wvaKWVgdQtyFG4XfX8n75hjmBq, https://drive.google.com/open?id=1yNi1iva7lEWmRVyh-DDVEGI8ZKMnU7Kf, https://drive.google.com/open?id=1b4DP4kuZBIWWSRvImBwzMGiL12Mc8I1o"
+      },
+      "products": [
+        {
+          "id": "2518101907-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Smart Life & Data Tech",
+          "subCategory": "Autonomous Driving, Electric Vehicles, Wearables",
+          "name": "Silicone based thermal interface materials",
+          "detail": "Thermal heat resistance, Durability, Flexibility",
+          "certifications": [
+            "RoHS"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=16cS50EWinV2J9eGtuh-pPT3joPyzlNNi"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=WeGlue"
+        }
+      ]
+    }
+  ]
+}
