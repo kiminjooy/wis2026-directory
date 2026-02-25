@@ -1,0 +1,1229 @@
+{
+  "meta": {
+    "generatedAt": "2026-02-25T08:33:34.000Z",
+    "countCompanies": 38
+  },
+  "companies": [
+    {
+      "id": "7408103365",
+      "name": "AI gement",
+      "logo": "https:/drive.google.com/open?id=18ThQHMJvYnjCus_3ahioebKPRmm0RTbW",
+      "location": "Dalseong-gun, Daegu",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.plynai.com",
+        "subpage": "www.linkedin.com/company/aigement",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "7408103365-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Agent Platforms, Industry-specific AI Applications, Data Analytics & Storage",
+          "name": "PLYN (Procurement automation AI SaaS)",
+          "detail": "We automate procurement end-to-end: multi-step workflows with no human intervention, expert-level decisions (negotiation strategy, alternatives, execution plans), and day-to-day communication via email/phone/messengers. Our goal isn’t to minimize human-in-the-loop, but to make it unnecessary",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1cIVNdGs-VQXuI4AhQmtG8CQHIqe5zza-"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=AI%20gement"
+        }
+      ]
+    },
+    {
+      "id": "5608103449",
+      "name": "amously",
+      "logo": "https:/drive.google.com/open?id=1w2DneRcdVy_1uR5OHD9u4UhBAHTmgqKh",
+      "location": "Seocho-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://www.amously.ai",
+        "subpage": "https://www.linkedin.com/company/amously",
+        "catalog": "https://drive.google.com/open?id=1Au5sVf460S4E8-XXL89fWWghVtIL1eNE"
+      },
+      "products": [
+        {
+          "id": "5608103449-1",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "Industry-specific AI Applications",
+          "name": "Amfibian (Semiconductor Manufacturing Process Control Platform)",
+          "detail": "Amfibian™ is an on-premise AI process control platform that predicts process conditions and derives optimal recipe and control parameters based on semiconductor mass-production data.\n\nIts key differentiator is that process engineers—without relying on developers or data scientists—can directly create, modify, validate, and deploy models. An intuitive model-building framework combined with a digital twin–based pre-validation system enables scenario testing and risk assessment before deployment. In operation, the platform provides stabilization features including monitoring and rollback.\n\nBy integrating equipment, metrology, and historical data, Amfibian performs virtual metrology (VM) and control optimization, delivering not only diagnostics but also concrete adjustment guidance. Designed as an add-on to existing MES and APC environments, it allows rapid deployment and is scalable from CMP to a wide range of semiconductor processes.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1MbNVVUSiltsbRN9PFQK7xD6i_nG0THi_"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=amously"
+        }
+      ]
+    },
+    {
+      "id": "3548602817",
+      "name": "Boaz Health",
+      "logo": "https:/drive.google.com/open?id=13_Yxs5HSYLslZgGSGGmTJOC77K3bzPHK",
+      "location": "Hwaseong-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "http://www.boazhealth.net/en/",
+        "subpage": "https://youtu.be/jcW1__cd4tw",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3548602817-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Home/Office/Work Solutions, Smart Appliances, Digital Healthcare",
+          "name": "SmartBoaz (AI-Based Anti-Snoring Sleep Care Device)",
+          "detail": "It is a smart pillow that automatically detects snoring and gently adjusts the head position to immediately reduce snoring, helping you enjoy a more comfortable sleep.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1lizL8S-wIxxGmp8_fjhudrWV3m1LrCKb"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Boaz%20Health"
+        }
+      ]
+    },
+    {
+      "id": "1108167253",
+      "name": "CELLBIG",
+      "logo": "https:/drive.google.com/open?id=1-3q6C1awXrSenqCZodvzoTV8jbRk1F6N",
+      "location": "Geumcheon-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.cellbig.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=11N4kCTA6kc5NYufXluj5_R1rI-WEzsWF, https://drive.google.com/open?id=1Cb5I5N4eVK-4Lkf2X5JB4yn9flPwSIJf, https://drive.google.com/open?id=1e0FZpGsb0gjE9m6cGecOK1wl-V4A-FC9, https://drive.google.com/open?id=1Vuu-XIXllkekalWQWbm2MfsdfK_iz84h"
+      },
+      "products": [
+        {
+          "id": "1108167253-1",
+          "mainCategory": "AI & Digital Intelligence, Immersive Spatial Tech",
+          "subCategory": "Generative AI, VR/AR/XR- based Simulations and Content",
+          "name": "AI Photo Gram (AI Photo Booth)",
+          "detail": "1.AI Powered Photo Studio \n- Create stunning images instantly with advanced generative AI.\n\n2.Hybrid Reality Background System\n\n- Seamlessly blend real and virtual environments for unique photo effects.\n\n3.Immersive Branding & Event Experience\n\n- Optimized for brand activations, events, and pop-up stores.\n\n4.Easy Setup Anywhere\n\n- A portable smart photo booth that can be installed effortlessly at venues, brand zones, or exhibitions.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=11jiziaK21nWQhnIrRraFrllBq_oQ4mkW"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=CELLBIG"
+        },
+        {
+          "id": "1108167253-3",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "VR/AR/XR- based Simulations and Content",
+          "name": "Indoor Playground (Immersive Content Playground)",
+          "detail": "We develop immersive experiences using AR, XR technologies and projection mapping.\nThrough these innovations, we create and operate digital exhibition spaces that bring virtual and physical worlds together.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1CqsHYMHwBeXeGHxZv3VhP0StoiD0jOFO"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1108167253-2",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "VR/AR/XR- based Simulations and Content",
+          "name": "Keezle (Immersive Edtech)",
+          "detail": "We develop tangible immersive content using AR, XR, AI technologies, and projection mapping. Through this, we provide innovative solutions across various fields, including education, sports, training, and kids healthcare.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1z0SaViCfvlJnn2QinhPD6HdRVS2qTtGW"
+          ],
+          "meetingRequest": ""
+        }
+      ]
+    },
+    {
+      "id": "4398102618",
+      "name": "cobotsystem",
+      "logo": "https:/drive.google.com/open?id=10HQl_3pziXrUQH1iak9fv5jLZFBO0CS4",
+      "location": "Anyang-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.cobotsystem.net/en",
+        "subpage": "https://youtu.be/rBBIVnClHIc",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4398102618-1",
+          "mainCategory": "Robotics & Intelligent Mobility",
+          "subCategory": "Collaborative Robots, Smart Mobility",
+          "name": "wheel overconing obstacles",
+          "detail": "A universal wheel that enables reliable mobility across thresholds, curbs, slopes, and uneven or slippery surfaces",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1U4W7QfUQcNfIkLl8ZvoGY9XPkdhcmVbq"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=cobotsystem"
+        }
+      ]
+    },
+    {
+      "id": "3978701700",
+      "name": "CT5",
+      "logo": "https:/drive.google.com/open?id=1O5jsB13cKYK6Ds1pZjGfikiWkg8wy2eV",
+      "location": "Hwaseong-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.ct5inc.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3978701700-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Generative AI, AI UX, AI Assistants, IoT Devices, Wearables",
+          "name": "LMM-Powered High-Performance AI Wearables: Enabling the Next Generation of AI Interfaces",
+          "detail": "ZONE HSS1 is an LMM-based next-gen neckband AI wearable. Overcoming the limits of smart glasses in battery, privacy, and single-user constraints, it won the CES 2026 AI Best of Innovation Award. It is a universal platform applicable to all AI fields, including work assistance, tourism, and caregiving. We are currently partnering with ByteDance and preparing for global PoCs.",
+          "certifications": [
+            "CE",
+            "FCC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1WVeWXCmeZRLBvYEpEAvgtuIfSAh-QSr6"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=CT5"
+        }
+      ]
+    },
+    {
+      "id": "7198701671",
+      "name": "Donglak POS",
+      "logo": "https:/drive.google.com/open?id=1fAJEunmGYATV201RYwzhGYsX2MTRS0mY",
+      "location": "Pyeongtaek-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.pospower.kr",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "7198701671-1",
+          "mainCategory": "Robotics & Intelligent Mobility",
+          "subCategory": "Smart Mobility",
+          "name": "e2W Battery Charger",
+          "detail": "A battery charger that pursues stability and stability and contributes to extending battery life.",
+          "certifications": [
+            "CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1kD0KxMfiI4qy_wEd9wM8IU7xsajcRkg_"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Donglak%20POS"
+        }
+      ]
+    },
+    {
+      "id": "1298188932",
+      "name": "ES CABLE",
+      "logo": "https:/drive.google.com/open?id=1porD8rWM4ZrIjWoODrXwmvDQ1cyZY2Mm",
+      "location": "Hongseong-gun, Chungcheongnam-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.es-cable.com",
+        "subpage": "https://www.youtube.com/channel/UClQVqwoRViw6NvEgEb2mEuA",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "1298188932-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "IoT Devices",
+          "name": "OPTICAL FIBER CABLE",
+          "detail": "A company with 24 years of experience, directly designing, manufacturing, and supplying products through annual contracts with leading domestic telecommunications companies and overseas EPC companies.",
+          "certifications": [
+            "CE",
+            "CPR"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=14ZebjS_wn4HhfhHz3PycI17fSj2RYaiK"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=ES%20CABLE"
+        }
+      ]
+    },
+    {
+      "id": "8618601714",
+      "name": "GEOGRID",
+      "logo": "https:/drive.google.com/open?id=1kXmdrZC2Jf1D6lIErpTv2xTb-YcmJ9Iz",
+      "location": "Chuncheon-si, Gangwon-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.egeogrid.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1VzL4fA2_LbLaq9wWyV2SaybOt8Hln30u, https://drive.google.com/open?id=1U2WfqHKrhflAxhV-SwWpoR8Q5Ou_nh_9"
+      },
+      "products": [
+        {
+          "id": "8618601714-1",
+          "mainCategory": "Immersive Spatial Tech",
+          "subCategory": "Digital Twin Platforms",
+          "name": "Building Oasis BLOS (Integrated Smart Water Management System based on Digital Twin)",
+          "detail": "Features: A 'Building Water Purification Plant' solution installed at the main water inlet of the mechanical room to improve, monitor, and optimize water quality throughout the entire building in real-time. It visualizes complex piping networks through Digital Twin technology and manages water conditions remotely. It provides technology that blocks external impurities to supply clean water like a purifier throughout the building, preventing pipe corrosion due to aging, improving rust water, and preventing slime formation caused by bacterial growth.\n\nStrategy: Essential for LEED 'Water Efficiency (WE)' credits via chemical-free treatment. It drastically reduces maintenance costs and carbon emissions compared to traditional purifiers through real-time flow and water quality data analytics.",
+          "certifications": [
+            "ISO9001"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1GI6F6Q7Pg1iVciq1NqXNrzVoZJu5G-Ha"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=GEOGRID"
+        }
+      ]
+    },
+    {
+      "id": "1388165438",
+      "name": "Greentel",
+      "logo": "https:/drive.google.com/open?id=1-hkpFDEvUF7fJ02IZMZSKn7R4hS5o2Qa",
+      "location": "Hanam-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer, Importer / Technology Distributor",
+      "links": {
+        "homepage": "www.oculen.net",
+        "subpage": "www.g-greentel.com",
+        "catalog": "https://drive.google.com/open?id=19M1K-Bnh6o1bY6ZX45kuM1NwxqxB3On2, https://drive.google.com/open?id=17AE3IEBLIKdBk9iPxkA5efMCjWrT8qqs, https://drive.google.com/open?id=1w1rMSRgMkYoVCzfry9WU2BYHyJ3Ed6B0"
+      },
+      "products": [
+        {
+          "id": "1388165438-2",
+          "mainCategory": "Robotics & Intelligent Mobility, Smart Life & Data Tech",
+          "subCategory": "Smart Mobility, Smart Home/Office/Work Solutions",
+          "name": "Ultra Lowlight Camera",
+          "detail": "Our latest camera solution, designed for powerful night surveillance. It can provide Full HD color footage under the very low light conditions like star-light.\nIt features cutting-edge night vision technology with ultra-low latency.\nIt is available in two models. DB-1 is a basic bullet type model. DH-2 is an ultra-compact mini model, suitable for integration with drone and missile systems. It weighs only 47g and measures just 30×30(mm).",
+          "certifications": [
+            "CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1izkB739Z81tbXYwa3KJ0Xg-iRGTkm-1Y"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1388165438-3",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "On-device AI, Industry-specific AI Applications",
+          "name": "VAI-HYBRID EDGE AI solution",
+          "detail": "- The Hybrid solution with Intelligent Video Enhancer & Small Object Detection Edge AI.\n- Even under poor visibility conditions that degrade video quality and detection performance, VAI-HYBRID enables reliable detection and identification\n- Ideal for smart city, smart farm, smart factory, video analytics, and AI development\n- Supports SOD (Small Object Detection) for high-percision detection\n- Multi-domain Operation (Land & Maritime & Air)\n- Serverless Edge AI deployment",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1GsPzlGji7_seM_5vRJDwV2WgfnW7D9bE"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1388165438-1",
+          "mainCategory": "AI & Digital Intelligence",
+          "subCategory": "Intelligent IoT",
+          "name": "Video Enhancer",
+          "detail": "Greentel provides smart video enhancement solutions for critical surveillance in various conditions.\nGreentel’s video enhancer enhances blurry footage from CCTV, EO/IR, drones in bad weather like fog, rain, lowlight. Without replacing or discarding the existing system, it can highly improve the image quality of existing system. It is currently being operated in Korea Airforce, Army, Maritime Police, and it can be applied to every sites where important video surveillance systems are in operation.",
+          "certifications": [
+            "CE",
+            "FCC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=11RgroeCNRklzI17Ehno7kqLebleaoGkt"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Greentel"
+        }
+      ]
+    },
+    {
+      "id": "1238617680",
+      "name": "GSP BATTERY KOREA",
+      "logo": "https:/drive.google.com/open?id=1yXIaDW6mAdsc7nD0d-Ipk9gGs-unGo_f",
+      "location": "Anyang-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.gspbattery.com",
+        "subpage": "https://www.gspbattery.com/product-category/multi-purpose-batteries/",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "1238617680-1",
+          "mainCategory": "Robotics & Intelligent Mobility",
+          "subCategory": "Industrial/Logistics/Service Robots, Collaborative Robots, Smart Mobility",
+          "name": "Lithium batteries for AGV, AMR etc.",
+          "detail": "Customized industrial battery solutions for 24V (25.6V), 48V (51.2V) and 72V systems, High-discharge performance and design optimized for continuous operation, Customizable battery enclosure dimensions and interface configurations, Compliance with mandatory export certifications, including UN38.3",
+          "certifications": [
+            "CE",
+            "ISO9001"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1gJmFw1eL3TbNGhRsxV4YIVmgf1MRe7tf"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=GSP%20BATTERY%20KOREA"
+        }
+      ]
+    },
+    {
+      "id": "4678603539",
+      "name": "H’ Intelligence",
+      "logo": "https:/drive.google.com/open?id=1V62xz7G5Dpowh3aC1IN0wY3eLkVKDwoY",
+      "location": "Gangnam-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "http://hintelligence.ai/en/main-english/",
+        "subpage": "https://www.linkedin.com/company/hintelligence-ai/",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4678603539-1",
+          "mainCategory": "AI & Digital Intelligence, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "On-device AI, Industry-specific AI Applications, Spatial Computing, Smart Home/Office/Work Solutions, Data Security, Privacy Protection",
+          "name": "K LEAGUE AI Voice Relay",
+          "detail": "K League introduced AI Voice Relay, the first AI-powered live audio commentary for visually impaired football fans in stadiums — who until now couldn’t fully experience the game live. Using real-time tracking data from camera footage, AI narrates every movement in vivid detail. Where innovation meets inclusion.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=14kQe7HYDvt3xziQ6K7v21arsH5X1fKGh"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=H%E2%80%99%20Intelligence"
+        }
+      ]
+    },
+    {
+      "id": "3768102016",
+      "name": "HEAT-SOL",
+      "logo": "https:/drive.google.com/open?id=1WC4AK1SRA19jdUpkuje4KEyKzschXA9Q",
+      "location": "Seo-gu, Incheon",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "http://www.heat-sol.com/heatsol",
+        "subpage": "https://blog.naver.com/bstech_pridepbs\nhttps://www.youtube.com/channel/UChG-rtXbx-I0MnOZhU1lZqQ",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3768102016-1",
+          "mainCategory": "Robotics & Intelligent Mobility",
+          "subCategory": "Industrial/Logistics/Service Robots, Electric Vehicles",
+          "name": "Skiving Heatsink",
+          "detail": "◦ What is the Skiving Method?\n\n1) Knife-shaped tool slices copper/aluminum, rapidly increasing surface area \n → high  thermal performance.\n2) Enables ultra-fine fins impossible with punching methods.\n\n◦ Technological Advantages\n\n1) 15–20% higher thermal efficiency vs conventional methods.\n2) 20% less energy, 50% less material → more cost-effective.\n3) Heat-Sol's proprietary Skiving CNC under development : 40 µm precision(World best)\n   targeting AI Data center vs 100 µm competitors\n\n◦ Heat-Sol's strong points\n\n1) Copper heat sinks are possible not just aluminum\n2) Doubles surface area in 2 seconds → high productivity.\n3) Handles ultra-fine fins for liquid cooling.\n4) Proprietary CNC for complex shapes, mass production planned in 1Q. 2027",
+          "certifications": [
+            "ISO 9001 : 2015",
+            "ISO 14001 : 2015"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=11ffkavGi2Cl9Uub-aLCfjjiuvaMIypTs"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=HEAT-SOL"
+        }
+      ]
+    },
+    {
+      "id": "4238801350",
+      "name": "ICLO",
+      "logo": "https:/drive.google.com/open?id=1Iq8zDT-NIk_gsG5pEUmQkUg2gYSFJcMf",
+      "location": "Jeju-si, Jeju-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.iclocorp.com",
+        "subpage": "https://youtube.com/@homeden-corp?si=fz_j47NAR0PRD2Y_",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4238801350-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Multimodal AI, Agent Platforms, Digital Healthcare, Wearables, Data Analytics & Storage",
+          "name": "HOMEDEN App",
+          "detail": "🦷 HomeDen\n1️⃣ Service Definition\n\nAn AI-powered mobile remote oral self-screening and dental connection platform.\n\n2️⃣ Key Features\n\nSmartphone-based AI detection of dental caries and plaque\n\nAutomated personalized oral health reports based on image analysis + questionnaire\n\nHybrid AI + licensed dentist review system\n\nLocation-based partner clinic matching and visit conversion\n\n3️⃣ Core Strengths\n\nAdvanced algorithm trained on one of Korea’s largest dental image datasets\n\nSeamless Care Loop: Screening → Report → Dental Visit\n\nPreventive-focused model expandable to insurance, public health, and corporate welfare sectors\n\nAccumulated oral health history enabling strong user retention and long-term engagement",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1NK998HbsIit5f0pqoe3QH8R3jgBcXBML"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=ICLO"
+        },
+        {
+          "id": "4238801350-2",
+          "mainCategory": "",
+          "subCategory": "",
+          "name": "HomeDen Connect SaaS CRM",
+          "detail": "🏥 HomeDen Connect\n1️⃣ Service Definition\n\nAn AI-powered patient acquisition and clinic management SaaS platform for dental practices.\n\n2️⃣ Key Features\n\nAutomatic CRM integration of HomeDen users\n\nAI-assisted treatment planning and consultation material generation\n\nAutomated quotation system and treatment journey management (e.g., orthodontic tracking)\n\nRevisit induction and marketing automation tools\n\n3️⃣ Core Strengths\n\nSimultaneous new patient acquisition and existing patient retention\n\nRecurring revenue subscription SaaS model\n\nClosed-loop AI optimization based on real clinic operational data\n\n“AI-Driven Leading Clinic” branding differentiation",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1jPVcdupLxxX8Q4CPbiOHSo2qd7OPjJgL"
+          ],
+          "meetingRequest": ""
+        }
+      ]
+    },
+    {
+      "id": "5218801858",
+      "name": "IDB",
+      "logo": "https:/drive.google.com/open?id=1vHrgJ4gCKoNbvj_zFs9vdWb3gXQpxW_2",
+      "location": "Gangnam-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://idb.ai",
+        "subpage": "https://protectgoai.jp/",
+        "catalog": "https://drive.google.com/open?id=1Pj7t_l651j9Jvy7v-yA3_G7uIW-s2H_A"
+      },
+      "products": [
+        {
+          "id": "5218801858-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech",
+          "subCategory": "Generative AI, Multimodal AI, On-device AI, Agent Platforms, Intelligent IoT, Electric Vehicles, Robot Control Systems & Operational Software, Digital Twin Platforms",
+          "name": "Protect Go AI",
+          "detail": "AI Based Facilit abnormality detection, safety risk detection, energy efficiency detection, multi agent based operation AI",
+          "certifications": [
+            "GS",
+            "KC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1N0oA2k0DLyDGVyScQGXvcPzDB6HAITsI"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=IDB"
+        }
+      ]
+    },
+    {
+      "id": "6118801452",
+      "name": "IDEA",
+      "logo": "https:/drive.google.com/open?id=1VKeqc2fRNASf1zqPRX6BHE4IM6E_EzVr",
+      "location": "Goyang-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.lazo.kr",
+        "subpage": "https://smartstore.naver.com/idea_store_shop",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "6118801452-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Appliances",
+          "name": "LAZO(instant noodle cooker)",
+          "detail": "A cooking appliance that cooks instant ramen called 'Han River Ramen'",
+          "certifications": [
+            "CE",
+            "PSE",
+            "TUV",
+            "NSF",
+            "CB"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1-hvyvcZWyRvoIFavFndY9jU-kHx4LwCB"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=IDEA"
+        }
+      ]
+    },
+    {
+      "id": "1518103740",
+      "name": "INNOVM",
+      "logo": "https:/drive.google.com/open?id=1IQf43LUhKjzVj9AGkWcKqCbehRRM87Jv",
+      "location": "Gangseo-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.innovm.co.kr",
+        "subpage": "https://www.instagram.com/innovm_official/",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "1518103740-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Home/Office/Work Solutions, Smart Appliances, Digital Healthcare",
+          "name": "SNOK CHAIR (Massage Chair)",
+          "detail": "SNOK Chair\n\nThe Good Sleep Electric Swing Massage Chair that understands your body and delivers true rest.\n\nThe SNOK Chair by INNOVM redefines the concept of a massage chair.\nMoving beyond conventional designs focused on intense muscle stimulation, SNOK is thoughtfully engineered around the essence of rest and sleep — creating a new category of healing chair.\n\nSound therapy and melatonin-inspired ambient lighting gently ease physical and mental tension, while the rhythmic electric swing motion guides the body into a naturally deep state of relaxation.\n\nIts smart sensing system monitors heart rate and oxygen saturation, automatically adjusting swing speed and massage intensity according to the user’s condition. The electric zero-gravity reclining system, extending up to 150°, minimizes pressure on the spine and joints to create the most comfortable resting posture.\n\nWith intuitive smartphone app connectivity for seamless control, and a refined minimalist design that harmonizes with living rooms, studies, or bedrooms, SNOK enhances both wellness and interior elegance.\n\nThe SNOK Chair is a premium healing solution that balances technology, design, and restorative comfort — bringing deep, complete relaxation into modern urban life.\n\nSNOK is a combination of Sleep and Nook, symbolizing a personal and cozy space dedicated to rest.\n\nKey Features\nElectric Swing Therapy\nA smooth, rhythmic swing motion that relieves tension and promotes emotional and physical stability.\n\nSmart Sensing System\nDetects heart rate and oxygen saturation to automatically adjust swing speed and massage intensity in real time.\n\nZero-Gravity Reclining Structure\nUp to 150° electric recline to reduce spinal and joint pressure for optimal relaxation posture.\n\nAir · Vibration · Heat Massage\nProvides gentle, non-aggressive full-body relaxation without harsh mechanical impact.\n\nLumbar Airbag Stretching\nGently supports and stretches the lower back for natural tension relief.\n\nSound Therapy & Melatonin Light\nCreates a sleep-friendly environment that supports deeper relaxation.\n\nApp-Connected Healing Curation\nEasily access curated rest and sleep programs through a dedicated mobile app.\n\nErgonomic Design\nEngineered to accommodate various body types with stable and comfortable seating.\n\nPremium Minimalist Aesthetic\nA refined object-style design that complements any interior space.\n\nThe SNOK Chair is more than a massage device —\nit is a smart wellness solution that elevates the quality of rest to the next level.",
+          "certifications": [
+            "CB Certification"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1qmV4uy46d7-0whnzd0jncEDgsxKpfEGg"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=INNOVM"
+        }
+      ]
+    },
+    {
+      "id": "6828801890",
+      "name": "Intellectus",
+      "logo": "https:/drive.google.com/open?id=1MH95bgLQ1dP1irxHiMSf6XZujT9Y5XQe",
+      "location": "Gangnam-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://en.intellectus.co.kr/",
+        "subpage": "https://kr.linkedin.com/company/%EC%A3%BC-%EC%9D%B8%ED%85%94%EB%A0%89%ED%88%AC%EC%8A%A4",
+        "catalog": "https://drive.google.com/open?id=1TSpmGwnAt9Lsns-h3zNFVTK2ZSOf3zkH"
+      },
+      "products": [
+        {
+          "id": "6828801890-2",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "On-device AI, Industry-specific AI Applications, Intelligent IoT, Industrial/Logistics/Service Robots",
+          "name": "FlowPilot (Edge AI Engine)",
+          "detail": "A manufacturing-specialized Edge AI engine that analyzes and controls shop floor data in real-time to minimize quality gaps.\n1. Improve Quality: Maintains consistent product quality by preemptively blocking factors that cause defects.\n2. Save Energy & Costs: Maximize operational efficiency by reducing waste through real-time process analysis.\n3. Fast AI Deployment: Get instant results with quick, data-driven optimization—no complex training required.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1iathkmuF3UR8jM9sM1w-5ATwJkK7PzLA"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "6828801890-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "On-device AI, Industry-specific AI Applications, Intelligent IoT, Industrial/Logistics/Service Robots",
+          "name": "int2ConneX (Middleware)",
+          "detail": "A manufacturing-specialized Edge AI engine that analyzes and controls shop floor data in real-time to minimize quality gaps.\n1. Plug & Play: Instantly connects data from various machines without the need for equipment changes.\n2. Ultra-Low Latency: Delivers massive datasets in real-time without interruption, powered by DDS technology.\n3. High Scalability: Rapid expansion without additional coding, even when adding new equipment or nodes.",
+          "certifications": [
+            "OMG International Standard\nCertified Global DDS Vendor"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1qUoO2-aOPMYopRE9Tdh_mM3gDgfaS7ap"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Intellectus"
+        }
+      ]
+    },
+    {
+      "id": "4728603166",
+      "name": "KGE Solution",
+      "logo": "https:/drive.google.com/open?id=123SSOXttVUaCDRYSUneqHmZ_naJtujSL",
+      "location": "Yeonsu-gu, Incheon",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "gne-networks.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4728603166-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Smart Life & Data Tech",
+          "subCategory": "Industrial/Logistics/Service Robots, Collaborative Robots, Electric Vehicles, Smart Mobility, Smart Appliances, Digital Healthcare",
+          "name": "printed circuit board",
+          "detail": "Our PCB products are designed for high reliability and optimized for industrial and power control applications. We ensure strict quality control in compliance with IPC standards, full electrical testing, competitive pricing, and stable supply capability.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1I2EVgBH7W93b6ZQMFsH5p-NtRhJmqzYX"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=KGE%20Solution"
+        }
+      ]
+    },
+    {
+      "id": "3988100338",
+      "name": "KN LED",
+      "logo": "https:/drive.google.com/open?id=1myvQeJVaa5T2u3X_MPvLwU9n4NH0RTUj",
+      "location": "Haman-gun, Gyeongsangnam-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "kneed.co.kr",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3988100338-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, IoT Devices",
+          "name": "AI ( Screen Golf), Display ( Led Display)",
+          "detail": "World's First LED Screen Golf System, Final Finished Product, and World-Promising Product",
+          "certifications": [
+            "PSI",
+            "FC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=17f5WNolxvZAJwXcruoD6chc8Ja3ZsRdC"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=KN%20LED"
+        }
+      ]
+    },
+    {
+      "id": "3130802405",
+      "name": "MISOLED",
+      "logo": "https:/drive.google.com/open?id=1i8BDf4fmro5UBd7xGRfD8yRIDyvn3FHh",
+      "location": "Uijeongbu-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "https://misoled.com/",
+        "subpage": "https://smartstore.naver.com/miso88led",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3130802405-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Digital Healthcare",
+          "name": "High-power near-infrared massager",
+          "detail": "Chronic pain relief. Plantar fasciitis.\nIncreases body temperature. Boosts immunity. Promotes cell regeneration.\nChronic fatigue relief. Relieves fibromyalgia.\nImproves circulation. Relieves muscle and joint pain.\nStress relief. Boosts metabolism.",
+          "certifications": [
+            "CE",
+            "ISO"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=14J08ob9G0UaFCWAHATDFmiE1xQJSmcAh"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=MISOLED"
+        }
+      ]
+    },
+    {
+      "id": "1198664452",
+      "name": "N-ARK Technology",
+      "logo": "https:/drive.google.com/open?id=1VdyaiESkdUlEhKw3KhsAe1PUjmieA5r7",
+      "location": "Ansan-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://n-ark.com/?page_id=1986&lang=en",
+        "subpage": "https://www.instagram.com/narktech/?hl=ko, https://youtube.com/channel/UC6QVZXVrcYPNPgrLq_oXU1A?si=b72Ss1hdRAzpUUUE",
+        "catalog": "https://drive.google.com/open?id=1SznC_65jmULR1AOSAe2jscUJv6zuHdHx, https://drive.google.com/open?id=1wIvkCFQxymUrs9Ty7gEr615obr3Q4KUT, https://drive.google.com/open?id=1jd40zhTri6beJRE_8aPJekioFPZj46E3, https://drive.google.com/open?id=1wi74t7JtAD8323pLnx41tTHzNfHl2Pkq"
+      },
+      "products": [
+        {
+          "id": "1198664452-4",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-FR500 (3ch MPoE Repeater)",
+          "detail": "This product is a high-performance 3-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt can extend up to three channels simultaneously with a single device, offering excellent installation efficiency.\n\nBy amplifying and extending both power and data transmission at the same time, it maintains stable performance even in long-distance environments.\n\nIt minimizes voltage drop, ensuring reliable power delivery to high-power devices.\n\nBy reducing wiring work and minimizing the number of required devices, it provides cost savings and easier maintenance.\n\nIt is a next-generation power and communication extension solution optimized for multi-channel and high-power environments, including CCTV, AI cameras, industrial networks, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1lxRZRffVI0j3M82CYFBX2NyLrQ-GMITC"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-5",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, Smart Appliances",
+          "name": "NRK-FR501 (4ch MPoE Repeater)",
+          "detail": "This product is a high-performance 4-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt can extend up to four channels simultaneously with a single device, making it ideal for large-scale installation environments.\n\nBy amplifying and extending both power and data transmission at the same time, it maintains stable performance even over long distances.\n\nIt minimizes voltage drop, ensuring reliable power delivery to high-power network devices.\n\nBy reducing the number of required devices and simplifying wiring processes, it improves installation efficiency and lowers overall deployment costs.\n\nIt is a next-generation power and communication extension solution optimized for multi-channel, high-density environments, including CCTV, AI cameras, industrial networks, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1VIWWjC3DnGPLOmgGQcmxpUXiKsb43UEs"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-3",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-MR100 (1ch MPoE Repeater)",
+          "detail": "This product is a high-performance 1-channel repeater incorporating N-ARK’s proprietary MPoE technology.\n\nIt simultaneously amplifies and extends power and data transmission, effectively overcoming the limitations of conventional transmission distance.\n\nEven in long-distance environments, it minimizes voltage drop to maintain stable power delivery and reliable data quality.\n\nIt can be easily installed without additional power construction, offering excellent installation efficiency and cost-effectiveness.\n\nIt is a next-generation power and communication extension solution optimized for long-distance and high-power environments, including CCTV, AI cameras, and industrial networks.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1yvj-5Ks6elXxDbUYvqtCNNaMNVNSPl_o"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-2",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Intelligent IoT, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "NRK-P6405 (MPoE Injector)",
+          "detail": "This product is a 60W high-power injector based on N-ARK’s proprietary MPoE technology.\nCompared to conventional PoE, it enables higher power transmission, providing stable power supply to high-performance network devices.\nBy delivering both power and data through a single cable, it simplifies wiring structures and reduces installation costs.\nIt minimizes voltage drop even over long distances, ensuring stable power delivery and reliable data communication quality.\nIt is a next-generation power transmission solution suitable for various high-power network environments, including CCTV, AI cameras, industrial equipment, and smart infrastructure.",
+          "certifications": [
+            "Japan"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1eNuORWK9XBi-D61zrh51qQssKDBLVK06"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "1198664452-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Industrial/Logistics/Service Robots, Electric Vehicles, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "PLE (AC Power & Data Integrated Transmission Device)",
+          "detail": "This product is an integrated transmission device that delivers AC power and communication signals simultaneously through a single cable.\n\nThere is no need to install separate power and communication lines, making installation simple and cost-effective.\n\nIt enables stable data transmission even over long distances and is suitable for AI, robotics, aerospace, defense, and various network equipment applications.\n\nBy simplifying the wiring structure, it reduces installation time and improves maintenance efficiency, providing a next-generation power and communication integrated solution.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1pVFCaTjPAKH-JGHDMlF_NSgU6v-nApst"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=N-ARK%20Technology"
+        }
+      ]
+    },
+    {
+      "id": "3018802743",
+      "name": "NEWERT",
+      "logo": "https:/drive.google.com/open?id=19k7AY3BPeVqStdkKE8IUNa8-9WH70e9Q",
+      "location": "Yeonsu-gu, Incheon",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "https://www.newert.co.kr/en",
+        "subpage": "https://www.alibaba.com/product-detail/-EmoConnect-PPG-Motion-Biosignal-measurement_10000035864068.html?spm=a2700.prosearch.normal_offer.d_image.5bf967afzxXMle&priceId=f9d9412505a84cfc95c8b8a03e7f60a5",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "3018802743-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Digital Humans, Digital Healthcare, Wearables",
+          "name": "Biosignal Acquisition System(EmoConnect PPG&Motion)",
+          "detail": "■ Use Case\n - A wearable research-grade measurement system designed to objectively measure users’ physiological and behavioral responses in research and industrial environments\n■ Key Functions\n - Simultaneous acquisition of biosignals based on PPG and motion sensors\n - Provision of researcher-friendly raw data\n - SDK-based data integration and extensible service support\n■ Customer Value\n - Minimizes experimental constraints through a non-invasive, wearable design\n - Provides high-quality data that can be immediately utilized for research and development",
+          "certifications": [
+            "FCC",
+            "CE Certifications"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1F0YM0wb5-pV1ir_gU3c294uzjB59C-Nd"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=NEWERT"
+        }
+      ]
+    },
+    {
+      "id": "8028702235",
+      "name": "PIASPACE",
+      "logo": "https:/drive.google.com/open?id=1vjRa-Q4CZvGF714egiLZYg6maUhjTsTw",
+      "location": "Dong-gu, Daegu",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.pia.space",
+        "subpage": "https://www.linkedin.com/company/piaspace/posts/?feedView=all",
+        "catalog": "https://drive.google.com/open?id=1tu1AMq2BbPAHdm8_4zT1iTshEGeOJm7S"
+      },
+      "products": [
+        {
+          "id": "8028702235-1",
+          "mainCategory": "AI & Digital Intelligence, Smart Life & Data Tech",
+          "subCategory": "Multimodal AI, Industry-specific AI Applications, Smart Home/Office/Work Solutions",
+          "name": "MACS(Multi-modal AI for Camera Solution)",
+          "detail": "MACS: Context-Aware Intelligent Video Analytics\n\nMACS is an advanced, multi-modal AI-driven CCTV analysis system that goes beyond simple object detection to understand situational context and detect complex anomalies in real-time.\n\nThe core strength of MACS lies in its \"human-like\" contextual understanding. While traditional AI focuses on identifying objects, MACS interprets the meaning behind actions—such as \"a person collapsing\" or \"a motorcycle operating without a helmet.\" This is achieved through sophisticated Vision-Language Model (VLM) technology, which analyzes video and text data simultaneously.\n\nUnlike conventional detection systems, MACS utilizes VLM to enable complex situational awareness even with minimal training data. Furthermore, our lightweight architecture allows for more CCTV channels per GPU, offering superior scalability and cost-efficiency.\n\nMACS features real-time threat detection and instant alerts, enabling immediate response to emergencies. Our technology is certified by major Korean authorities (KISA, KTL), boasting an F1-score of over 96 and a detection accuracy of 90%+ in complex environments.\n\nFrom falls and fires to trespassing and crowd density, MACS provides flexible detection types tailored to your needs. It is the ideal solution for urban surveillance, industrial sites, ports, airports, and luxury resorts.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1FqZfkC1DeBOggI_ajPdARbjLSfmtwaYD"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=PIASPACE"
+        }
+      ]
+    },
+    {
+      "id": "4908601303",
+      "name": "Rendezvue",
+      "logo": "https:/drive.google.com/open?id=1H2HG27YoANjTQGBy92D-3qqjO4YZeksf",
+      "location": "Gwangju-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "farmily.ai",
+        "subpage": "http://instagram.com/farmilyx",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4908601303-1",
+          "mainCategory": "Robotics & Intelligent Mobility",
+          "subCategory": "Industrial/Logistics/Service Robots, Autonomous Driving",
+          "name": "Autonomous Greenhouse Spray Automation Robot with Self-Driving Navigation",
+          "detail": "FARMILY-X S300 is an autonomous greenhouse spraying robot designed to fully automate repetitive crop protection tasks through precision self-driving navigation. By accurately recognizing greenhouse rail systems and predefined routes, it delivers consistent and uniform spraying performance while minimizing variability caused by manual operation. The robot operates safely in unmanned and nighttime conditions, significantly reducing labor dependency and improving operational efficiency. Equipped with human-detection safety features, it automatically stops when workers are detected to ensure a safe working environment. In addition, the system records detailed spraying data, including operation time, coverage area, and chemical usage, enabling data-driven farm management. More than just a spraying device, the FARMILY-X S300 represents a smart automation solution that enhances productivity, safety, and sustainability in modern greenhouse farming.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1PT3dy-2D7huRyE0YEY7j4lq1r8l3Wg7w"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Rendezvue"
+        },
+        {
+          "id": "4908601303-2",
+          "mainCategory": "",
+          "subCategory": "",
+          "name": "FARMILY-X UV (Autonomous Greenhouse UV-C Crop Protection Robot)",
+          "detail": "FARMILY-X UV is an autonomous greenhouse robot specifically designed to safely utilize UV-C technology for unmanned crop protection. Because UV-C exposure can be harmful to humans, its application requires a fully unmanned and precisely controlled environment. FARMILY-X UV addresses this challenge through advanced self-driving navigation, enabling safe nighttime and off-hour operation without human presence. Equipped with human-detection safety systems, the robot automatically stops when workers are detected, ensuring operational safety. Its precision motion control delivers uniform and controlled UV-C exposure only where needed, minimizing the risk of crop damage from overexposure. By reducing dependency on chemical pesticides and enabling consistent, repeatable treatment, FARMILY-X UV provides a sustainable and intelligent automation solution for modern greenhouse farming.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1g-Vltx329HDGozvEhcHhQ6x-29n2JZCg"
+          ],
+          "meetingRequest": ""
+        }
+      ]
+    },
+    {
+      "id": "2148715156",
+      "name": "ROKWON",
+      "logo": "https:/drive.google.com/open?id=1UtQM4Ixgm7VaxsoIar3_7di1P1R53GmL",
+      "location": "Bucheon-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.rokwon.com",
+        "subpage": "www.tradekorea.com/all/cm9rd29u.html",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "2148715156-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Digital Healthcare",
+          "name": "Massager (Ankle Therapy Massager)",
+          "detail": "Most people have little activity.    As get older age, \nThe walls of the blood vessels narrow down  and the waste in the blood vessels only builds up.\nKnowing these facts,   After a long period of research, we developed a product.\nIt will be good for those suffering from numbness in the hands and feet and varicose veins.\nThis product is a massager, but it can be a therapy device how you use it.\nThis product relaxes muscles through ankle exercises.\nI can say This product has the advantages an exercise machine and a massager.",
+          "certifications": [
+            "Europe (CE)",
+            "US (FCC)"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1nl0MjVEfYLYL4QLDk_Mcqiog11w5KWAD"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=ROKWON"
+        }
+      ]
+    },
+    {
+      "id": "2148890415",
+      "name": "SecuLayer",
+      "logo": "https:/drive.google.com/open?id=1W-8ax3fK79qLy7q4YZ6CH1lFqCfw1oFr",
+      "location": "Seongdong-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "https://www.seculayer.com/en/",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "2148890415-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Data Analytics & Storage, Data Security",
+          "name": "eyeCloudXOAR(SIEM&SOAR)",
+          "detail": "eyeCloudXOAR is an integrated security data analytics and response automation platform (SIEM & SOAR).\n\nThe solution collects, stores, normalizes, and analyzes all text-based logs generated across on-premises and cloud environments, enabling real-time threat detection and automated incident response.\n\nIt supports real-time search and analysis even in TB-scale data environments, leveraging distributed processing and clustering technology for linear scalability. The platform has been field-proven in over 600 deployments, including government and financial institutions.\n\nThrough its SOAR capabilities, eyeCloudXOAR provides over 80 integration components and playbook-based automated response workflows. A GUI-based configuration environment ensures operational efficiency and flexibility.\n\nWith a perpetual licensing policy and a flexible hybrid architecture (Private Cloud / Public Cloud / On-Premises), the platform minimizes long-term operational costs while maximizing scalability and performance.",
+          "certifications": [
+            "Common Criteria (CC) EAL2 Certified – ISO/IEC 15408 Compliant  \nISO/IEC 27001:2022 Certified (Information Security Management System)  \nGS (Good Software) Certification – Republic of Korea  \nCloud Service Confirmation Certification (KACC)  \nPatent Registered"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1XKiDoHINRKQyzh5FzGUiOjmgvFIOL282"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=SecuLayer"
+        }
+      ]
+    },
+    {
+      "id": "1218801075",
+      "name": "seyeong tech",
+      "logo": "https:/drive.google.com/open?id=1tOIPBH8OjuK5NnShRk6-vtIw5WDkEA2u",
+      "location": "Changwon-si, Gyeongsangnam-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "https://seyeongtech.co.kr/",
+        "subpage": "https://seyeongtech.co.kr/",
+        "catalog": "https://drive.google.com/open?id=1ivIRrZJJ8HF6kwx131RagQuoHyOYCFLt"
+      },
+      "products": [
+        {
+          "id": "1218801075-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Appliances, Digital Healthcare",
+          "name": "Nomad Wireless Dryer",
+          "detail": "1. Battery Replaceable Wireless Dryer\n2. 30 m/s strong wind strength\n3. 60 degree temperature optimized for hair and skin aging",
+          "certifications": [
+            "PSE",
+            "CE",
+            "FCC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1UeZTscD91hkeZA-Yn6StrbwEGAe9OQAj"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=seyeong%20tech"
+        }
+      ]
+    },
+    {
+      "id": "5138114498",
+      "name": "Seyoung Information & Telecommunication",
+      "logo": "assets/logos/5138114498.png",
+      "location": "Gumi-si, Gyeongsangbuk-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "http://pridewiwi.com/us/home/index.htm",
+        "subpage": "https://www.linkedin.com/company/seyoung-information-telecommunication-co-ltd/?viewAsMember=true",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "5138114498-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Smart Home/Office/Work Solutions, Smart Appliances, Wearables, Privacy Protection",
+          "name": "Two way wireless voice communication device(Full-duplex intercom)",
+          "detail": "Our main products WiWi, a portable two-way wireless transceiver based on frequency. It is small and light, so hands-free anytime, anywhere, and communication with each other is possible only with products without a separate repeater. It is a self-developed product that can provide customized software according to the user's purpose, such as one-way, two-way, simultaneous interpretation, and sports judgment, so customer satisfaction is high.\n\nWiWi is a portable two-way wireless transceiver operating in unlicensed frequency bands (2.4GHz / 900MHz). Compact and lightweight, it provides hands-free communication anytime, anywhere, without a repeater. The system supports up to 6 users in simultaneous conversation, making it ideal for real-time collaboration. Used by sports referees, factory workers, and logistics teams, WiWi delivers clear, reliable, and efficient group communication across diverse environments.\n\n1. Product Advantages\n● There is no extra charge for digital wireless transceiver based on frequency.\n● No interference between channels; supports up to 40 broad channels.\n● Up to 6 people per channel can communicate at the same time.\n● It is small and light, so it is easy to use for a long time.\n● Excellent dustproof/waterproof durability at IP54 level.\n● Consumer satisfaction is high because the program can be modified according to the environment and purpose of use, such as one-way, two-way, and speech fixing.\n● Bluetooth chip enables complete wireless communication and develops its own Bluetooth earset for the best wireless sound quality. \n● Implement noise cancelling to suppress ambient noise and support clear sound quality.\n\n2. Product Application \n● Tour Guide and VIP Line Tour\n● Power Kickboards and Smart Mobility \n● Simultaneous interpretation system and event events \n● Sports referee communication \n● Intercom for broadcasting filming  \n● Military firing training ground and small squad training \n● Drone shooting communication \n● For other services and business purposes\n\n3. Product Characterstic\n● Two-way radio transmission and reception based on 2.4 GHz, 900 MHz, 800 MHz, 400 MHz\n● Disconnect the product transmission and receiver using a simple operation method. (Master/Slave mode) \n● Supports up to 40 channels \n● The number of people in all groups can be communicated sequentially (up to 6 people can make simultaneous calls)  \n● 1:1 maximum communication distance: 500 m \n● Charging / hours used: 3 hours / 10 hours\n● Wireless microphone system is possible through speaker interworking \n● Built-in speaker / Bluetooth headset compatible \n● Communication distance can be extended through a separate relay terminal \n● Support customized S/W firmware\n\n4. Product excellence and differentiation \n● Advanced encryption standard for AES256 does not allow eavesdropping\n● Support real-time multi-way two-way communication and send and receive all personnel sequentially \n● Wired earphones must be used for competitors' terminals, but WiWi can communicate 100% wirelessly through Bluetooth earphone compatible technology.\n● In case of loss or damage of earphones, built-in speakers and microphones can be used \n● Mounted noise cancelling chip to suppress ambient noise \n● To overcome the weak communication distance as a small output communication product, develop the communication between barriers or floors through the development of wired and wireless relay devices. \n● Support consumer-tailored software firmware through an affiliated lab to differentiate itself from competitors",
+          "certifications": [
+            "CE",
+            "FCC",
+            "SRRC",
+            "TELEC"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1MoLW9Q9S-eKtt89BCvXBr3sBvN1W65Hp"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Seyoung%20Information%20%26%20Telecommunication"
+        }
+      ]
+    },
+    {
+      "id": "4168703431",
+      "name": "SMARTGOLF",
+      "logo": "https:/drive.google.com/open?id=1uTfkIfPB9UMKXNQUKz9zALbDh5o7k1_z",
+      "location": "Seocho-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "https://smartgolf.io",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "4168703431-1",
+          "mainCategory": "Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "VR/AR/XR- based Simulations and Content, IoT Devices, Blockchain Platforms",
+          "name": "SMARTGOLF AIX",
+          "detail": "SMARTGOLF AIX is an AI-powered golf training solution combining a sensor-based smart club and a mobile app. It analyzes swings anywhere, even without a ball, and delivers personalized coaching feedback and training routines. Designed for fast localization, it supports school and academy deployments and enables online tournament operations. We are looking for country partners who can support local distribution, school networks, or tournament execution to scale together.",
+          "certifications": [
+            "FCC",
+            "CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=16TiOAr8Spc9OlZYH_w5mkBgNAm45YIOX"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=SMARTGOLF"
+        }
+      ]
+    },
+    {
+      "id": "3148136463",
+      "name": "SPS",
+      "logo": "https:/drive.google.com/open?id=1_bmwFPsEA6jdGuxp0wf6-7SnTeHQiHcq",
+      "location": "Yuseong-gu, Daejeon",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "www.sps-ltd.com",
+        "subpage": "www.magconn.net",
+        "catalog": "https://drive.google.com/open?id=1h2RrfucaG5YQLHn3pNw8fSWMAinB6tYT, https://drive.google.com/open?id=15mohjP8R4XFHnEBpSJOL4Z2bCR9fborp"
+      },
+      "products": [
+        {
+          "id": "3148136463-1",
+          "mainCategory": "Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Immersive Interfaces, Smart Home/Office/Work Solutions",
+          "name": "Magconn Technology",
+          "detail": "Magconn technology is magnetic wireless charging & data sync solution and it can be applied for all the mobile devices and accessories. \n\nMagconn is same as USB in terms of function (power & data), but the UI (user interface) is different.\nConventional USB interface is plug-in/plug-out, but Magconn is simply attach/detach.\n\nMagconn technology has been applied for Smartphone, Tablet PC, Action camera, Bike light & GPS Tracker, mPOS, Barcode/RFID reader, Medical device, iPhone & Android phone cases and accessories, Automotive accessories, etc. in global market",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1deV3SPxjR4ENkKVAlQewVL5cePdAnm2P"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=SPS"
+        }
+      ]
+    },
+    {
+      "id": "7048800473",
+      "name": "Storagean",
+      "logo": "https:/drive.google.com/open?id=1sDQRE1x1-PEvh_rWoX96zIaSBhvkwVoT",
+      "location": "Songpa-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "www.storagean.com",
+        "subpage": "www.secuXpert.com",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "7048800473-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Data Security, Privacy Protection, AI Security",
+          "name": "SecuDongle - Mobile Network Edition / Standard Edition",
+          "detail": "🔷 MAIN PRODUCTS \nSecuDongle PNS & BNAB (Hardware-Based Physical Network Segregation Platform)\nSecuDongle enables a single PC to operate across different security-classified networks while maintaining strict physical separation through PNS (Physical Network Segregation).\nWith BNAB (Block Network After Browsing), the network remains disconnected by default and is automatically activated only when a user initiates an application requiring connectivity; once the requested web session is displayed on the user’s screen, the connection is physically blocked again.\nBy combining PNS and BNAB, SecuDongle not only isolates networks with different security levels, but also minimizes exposure within each isolated domain. This dual-layer architecture reduces persistent connectivity and significantly limits the attack surface across all segregated environments — without requiring multiple terminals or complex network infrastructure.\n\n🔷 PRODUCT BRIEFS \nSecuDongle – Mobile Network Edition\nA compact BNAB-based security device tailored for mobile and personal secure computing.\nEnables hardware-level network isolation without requiring additional infrastructure.\nWell-suited for remote professionals and controlled on-demand internet access.\nIncludes optional control over wireless interfaces such as WiFi and Bluetooth to reduce unintended connectivity paths\n\nSecuDongle – Standard Edition\nA robust hardware-enforced solution engineered for enterprise environments requiring strict network domain separation.\nSupports multi-device and multi-VM mapping within a single PC architecture to meet higher assurance demands.\nDesigned for secure endpoint environments that must operate across distinct security domains without cross-network exposure.\n\n🔷 DIFFERENTIATION \nUnlike conventional software-based isolation, SecuDongle enforces event-driven, hardware-level physical network segregation.\n• Enforces default network disconnection at the device level\n• Activates connections only when explicitly required\n• Automatically revokes network access after task completion\n• Prevents unintended cross-network exposure\n• Supports multi-device and multi-VM mapping on a single PC\n• Enables operation across networks with different security classifications\n• Eliminates always-on connectivity risks\n• Provides deterministic and auditable enforcement\n• Delivers hardware-based assurance beyond firewall or VM-only approaches",
+          "certifications": [
+            "FCC",
+            "CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1viFMgf4nU21Fny6qZf5vTkcNJSkcpd6A"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Storagean"
+        }
+      ]
+    },
+    {
+      "id": "8868702742",
+      "name": "T&L Healthcare",
+      "logo": "https:/drive.google.com/open?id=1HzrADb4b-hXwDa-Wx7Kg053p0IJ2Jkpt",
+      "location": "Yongin-si, Gyeonggi-do",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "http://www.tnlhealthcare.co.kr/tnl/en/",
+        "subpage": "https://smartstore.naver.com/tnlhealthcare/shoppingstory/list",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "8868702742-1",
+          "mainCategory": "Smart Life & Data Tech",
+          "subCategory": "Digital Healthcare",
+          "name": "NECKCARE BAND GOLDEN",
+          "detail": "Korea's firstly patented SPCB Technology applied NECKCARE BAND GOLDEN",
+          "certifications": [
+            "PSE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1Nt0Zs9K3WAX91Qy-aDepxMdY-005VRM1"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=T%26L%20Healthcare"
+        }
+      ]
+    },
+    {
+      "id": "6728103363",
+      "name": "TERASO",
+      "logo": "https:/drive.google.com/open?id=1-Qgbl_rtfkOEFL7GcEzUquX-Z56C3ZV-",
+      "location": "Buk-gu, Daegu",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "https://www.teraso.co.kr",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "6728103363-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Immersive Spatial Tech, Smart Life & Data Tech",
+          "subCategory": "Industrial/Logistics/Service Robots, Autonomous Driving, Smart Mobility, Robot Control Systems & Operational Software, Digital Twin Platforms, Smart Home/Office/Work Solutions, IoT Devices",
+          "name": "TERASO Hi-Flex Cables (High-Performance Servo & System Control Cables)",
+          "detail": "TERASO’s High-Performance Servo Cables provide optimized connectivity solutions for industrial robots, CNC machinery, and automated production lines requiring precision control.\n\n 1. Exceptional Flexibility & Durability: Engineered for high-flexibility, our cables have passed millions of bending and torsion cycles, ensuring stable power and signal delivery even in high-speed articulated robots and cleanroom environments.\n\n 2. Advanced Signal Protection (EMC): Featuring high-density tinned copper braided shielding, our cables effectively block electromagnetic interference (EMI), ensuring error-free data transmission and precise motor synchronization.\n\n 3. Environmental Resilience: To withstand harsh industrial conditions, the cables are jacketed with oil-resistant, chemical-resistant, and flame-retardant materials (compliant with UL/CE standards), significantly extending their service life.\n\n 4. Customized Solutions: We offer a wide range of specifications and professional harness assembly services tailored to customer equipment requirements, ensuring seamless integration and easy installation.",
+          "certifications": [
+            "UL & CE"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=1QPiA60wJAQ4P51ZEjZTbZ5nS1IFTmmrW"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=TERASO"
+        }
+      ]
+    },
+    {
+      "id": "6288801178",
+      "name": "Thermoeye",
+      "logo": "https:/drive.google.com/open?id=1G7_PAWkkVTYaXY1ufUSGrWoYZegFHS_t",
+      "location": "Dongjak-gu, Seoul",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "http://www.thermoeye.co.kr/",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1ee6cNKWX8dpmLyHIUdFqmHXCkLsvxWzS"
+      },
+      "products": [
+        {
+          "id": "6288801178-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Industry-specific AI Applications, Smart Mobility",
+          "name": "TMC(Industrial Thermal Camera)",
+          "detail": "The TMC series is an industrial thermal camera for real-time temperature monitoring in semiconductor, battery, and electronics manufacturing. It enables early detection of anomalies to improve process stability and productivity. The technology can also be applied to mobility and road safety systems, supporting thermal monitoring for vehicles and infrastructure.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1Eg7fKjRyxGjw_3tqbZPqjMB0TV-_oPB8"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=Thermoeye"
+        }
+      ]
+    },
+    {
+      "id": "5538103043",
+      "name": "TNHTek",
+      "logo": "https:/drive.google.com/open?id=18jjnXeMGsOLHms6l7F99RpU0aJN7n4qt",
+      "location": "Cheonan-si, Chungcheongnam-do",
+      "businessArea": "Manufacturer / In-house Technology Developer, Korean Branch or Representative Office",
+      "links": {
+        "homepage": "www.tnhtek.kr",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1z3mr-8CcTunZI1Xt3NBJZ6ElwiOdrnMj"
+      },
+      "products": [
+        {
+          "id": "5538103043-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Generative AI, Multimodal AI, On-device AI, Autonomous Driving, Electric Vehicles",
+          "name": "AI Data Center Hybrid DLC Cooling Solution \"EcoGen\"",
+          "detail": "Ecogen: The world's first monolithic hybrid DLC module for AI data centers, achieving unmatched thermal performance equivalent to immersion cooling with zero maintenance.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1QJYjkW-sN_WTPOQ9TuR2bzYtYUr12RBy"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=TNHTek"
+        }
+      ]
+    },
+    {
+      "id": "5278101032",
+      "name": "ViewOn",
+      "logo": "https:/drive.google.com/open?id=1LfKmsHItc_ZzKARrviSrKPSKmGJqrTEF",
+      "location": "Geumcheon-gu, Seoul",
+      "businessArea": "Development of AI Solutions for Procurement Automation",
+      "links": {
+        "homepage": "view-on.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1nP16RhAD1nMIfC_Axwwg13EsapBC5OR0"
+      },
+      "products": [
+        {
+          "id": "5278101032-3",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Industry-specific AI Applications, Industrial/Logistics/Service Robots, Robot Control Systems & Operational Software",
+          "name": "3D_LSI_Inspection",
+          "detail": "Advanced 3D Volumetric Imaging for Non-destructive, Real-time Layer-by-layer Analysis and Micrometric Void Detection in Multilayer Films.",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1jdYwEhW53Xkv7W7KkWDlHfnO4Fow4tPn"
+          ],
+          "meetingRequest": ""
+        },
+        {
+          "id": "5278101032-1",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Industry-specific AI Applications, Industrial/Logistics/Service Robots, Electric Vehicles, Robot Control Systems & Operational Software",
+          "name": "Sono-100, Sono-200 : AI Based 'Scanning Acoustic Microscopy'(Power semiconductor, HBM wafer, Glass Substrate)Inspection machine",
+          "detail": "1.AI-based Scanning Acoustic Microscope (SAM) Inspection System 2.Interlayer Defect Detection in Power Semiconductors 3.Void Defect Detection in Stacked Semiconductors (HBM) within 1um",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1QUNXSg67jiCeS59AHFWfNd0TA658bMFj"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=ViewOn"
+        },
+        {
+          "id": "5278101032-2",
+          "mainCategory": "AI & Digital Intelligence, Robotics & Intelligent Mobility",
+          "subCategory": "Industry-specific AI Applications, Industrial/Logistics/Service Robots, Robot Control Systems & Operational Software",
+          "name": "Sufi-inspect  : Surface Inspection System for Diffuse Reflecting Materials",
+          "detail": "Real-time Surface Inspection System for Diffuse and Reflective Materials (Aluminum, Coated Films, Metals, Glass, etc.)",
+          "certifications": [],
+          "images": [
+            "https:/drive.google.com/open?id=1T1d4J3Qc8KFdbrJ_BmvWHhtY9FuAXbFK"
+          ],
+          "meetingRequest": ""
+        }
+      ]
+    },
+    {
+      "id": "2518101907",
+      "name": "WeGlue",
+      "logo": "https:/drive.google.com/open?id=1y7I-Gz4AjuVQ4DPjGW61SiQPZjXXurpq",
+      "location": "Hwaseong-si, Gyeonggi-do",
+      "businessArea": "Manufacturer / In-house Technology Developer",
+      "links": {
+        "homepage": "we-glue.com",
+        "subpage": "",
+        "catalog": "https://drive.google.com/open?id=1-FGW01wvaKWVgdQtyFG4XfX8n75hjmBq, https://drive.google.com/open?id=1yNi1iva7lEWmRVyh-DDVEGI8ZKMnU7Kf, https://drive.google.com/open?id=1b4DP4kuZBIWWSRvImBwzMGiL12Mc8I1o"
+      },
+      "products": [
+        {
+          "id": "2518101907-1",
+          "mainCategory": "Robotics & Intelligent Mobility, Smart Life & Data Tech",
+          "subCategory": "Autonomous Driving, Electric Vehicles, Wearables",
+          "name": "Silicone based thermal interface materials",
+          "detail": "Thermal heat resistance, Durability, Flexibility",
+          "certifications": [
+            "RoHS"
+          ],
+          "images": [
+            "https:/drive.google.com/open?id=16cS50EWinV2J9eGtuh-pPT3joPyzlNNi"
+          ],
+          "meetingRequest": "https://forms.office.com/Pages/ResponsePage.aspx?id=e33nR04VpEiTqr8b0aeYhkS3Mjy6ahhJsuPhx_2DMJtUQVFMUEs3OU41R0lVODdPMzZKMEhQUTE5Ry4u&rb3aa8247d40c4d33ae227596fa5e6511=WeGlue"
+        }
+      ]
+    }
+  ]
+}
