@@ -337,7 +337,7 @@
 
     function splitLinks(v){
       return safeStr(v)
-        .split(/[,\n]+/)
+        .split(/[,\r\n]+/)
         .map(s => s.trim())
         .filter(Boolean);
     }
@@ -507,7 +507,7 @@
         ...splitCats(p.mainCategory),
         ...splitCats(p.subCategory)
 ];
-      const certs = p.certifications || [];
+      const certs = splitLinks(p.certifications);
 
       return `
         <div class="card">
@@ -554,5 +554,6 @@
   </script>
 </body>
 </html>
+
 
 
