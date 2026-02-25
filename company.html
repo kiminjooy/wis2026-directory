@@ -337,7 +337,7 @@
 
     function splitLinks(v){
       return safeStr(v)
-        .split(",")
+        .split(/[,\n]+/)
         .map(s => s.trim())
         .filter(Boolean);
     }
@@ -554,4 +554,5 @@
   </script>
 </body>
 </html>
+
 
