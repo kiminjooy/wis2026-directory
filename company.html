@@ -459,9 +459,18 @@
         el("vSubpage").textContent = "-";
       }
 
-      el("vCatalog").innerHTML = links.catalog
-        ? `<a href="${escapeAttr(links.catalog)}" target="_blank" rel="noopener">${escapeHtml(links.catalog)}</a>`
-        : "-";
+      if(links.catalog){
+        const urls = splitLinks(links.catalog);
+        el("vCatalog").innerHTML = urls
+         .map(url => `
+            <a href="${escapeAttr(url)}" target="_blank" rel="noopener">
+              ${escapeHtml(url)}
+            </a>
+          `)
+          .join("<br>");
+      }else{("vCatalog").textContent = "-";
+        el
+      }
 
       // ✅ 우측 상단 Meeting Request 버튼
       const meeting = products.map(p => p.meetingRequest).find(Boolean);
@@ -545,3 +554,4 @@
   </script>
 </body>
 </html>
+
